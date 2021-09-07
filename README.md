@@ -24,21 +24,20 @@
 
 ### 5. Run test script
 - Double click `AI-Image-Compare` repository to open it (empty passord)
-- Right click **E2E Demo Workflow** then **Execute Test...**
-  
-  ![](./images/run_ta.png)
+- Right click **AI Image Comparison** then **Execute Test...**
 - Click **Execute** button to execute test
-  
-  ![](./images/select_firefox.png)
 
 ### 6. View test results
 - The results tab open automatically after script execution finished.
-- Click on View detailed results per test line to view test results
-  
-  ![](./images/results.png)
+- Click on **View detailed results per test line** to view test results
 
+# Step by step video
 All steps are recorded in this following video:
-https://youtu.be/YoiA9WnJlAs
+
+
+https://user-images.githubusercontent.com/25169430/132280113-590b4c48-e92a-405f-9d75-4d22743efd1a.mp4
+
+
    
 # Advance
-- Please read [here] if you want to know how to create Keypoint for this project
+- Please read [here](./keypoint.md) if you want to know how to create Keypoint for Image Comparison in this project
