@@ -1,6 +1,8 @@
 # Description
 [TestArchitect](https://www.testarchitect.com/)'s test cases scripts and videos demo for ["AI image comparison for automation"](https://www.logigear.jp/ai_compare/)
 
+![keypoint](https://user-images.githubusercontent.com/25169430/132503624-b14345fb-0b39-4aa4-a268-062e6a8ef061.png)
+
 # Test Cases
 [testcases.md](./testcases.md)
 
@@ -37,7 +39,7 @@ All steps are recorded in this following video:
 
 https://user-images.githubusercontent.com/25169430/132280113-590b4c48-e92a-405f-9d75-4d22743efd1a.mp4
 
-
    
 # Advance
-- Please read [here](./keypoint.md) if you want to know how to create Keypoint for Image Comparison in this project
+- Please read [here](https://docs.testarchitect.com/user-guide/projects-and-project-items/project-items/picture-checks/key-points-modification-tool/) if you want to know how to create Keypoint for Image Comparison in this project
+- Video how to train keypoints for text and combo-box:
