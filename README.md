@@ -42,4 +42,4 @@ https://user-images.githubusercontent.com/25169430/132280113-590b4c48-e92a-405f-
    
 # Advance
 - Please read [here](https://docs.testarchitect.com/user-guide/projects-and-project-items/project-items/picture-checks/key-points-modification-tool/) if you want to know how to create Keypoint for Image Comparison in this project
-- Video how to create keypoints for text and combo-box:
+- Video how to train keypoints for text and combo-box:
