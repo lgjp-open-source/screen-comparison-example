@@ -1,5 +1,6 @@
 # Description
 [TestArchitect](https://www.testarchitect.com/)'s test cases scripts and videos demo for ["AI image comparison for automation"](https://www.logigear.jp/ai_compare/)
+![keypoint](https://user-images.githubusercontent.com/25169430/132503624-b14345fb-0b39-4aa4-a268-062e6a8ef061.png)
 
 # Test Cases
 [testcases.md](./testcases.md)
