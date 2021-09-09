@@ -1,7 +1,8 @@
 # Description
-[TestArchitect](https://www.testarchitect.com/)'s test cases scripts and videos demo for ["AI image comparison for automation"](https://www.logigear.jp/ai_compare/)
+- [TestArchitect](https://www.testarchitect.com/)'s test cases scripts and videos demo for ["AI image comparison for automation"](https://www.logigear.jp/ai_compare/)
+- Use [SIFT algorithm](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) as following
 
-![keypoint](https://user-images.githubusercontent.com/25169430/132503624-b14345fb-0b39-4aa4-a268-062e6a8ef061.png)
+![keypoint](https://user-images.githubusercontent.com/25169430/132656930-60ec2b5c-0720-4b16-a204-58310eb6aff3.png)
 
 # Test Cases
 [testcases.md](./testcases.md)
