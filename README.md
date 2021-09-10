@@ -17,6 +17,7 @@
 
 ### 2. Configure IE for automation testing
 - Follow the guide [here](https://docs.testarchitect.com/automation-guide/application-testing/testing-web-and-ria-applications/testing-web-applications/automated-web-testing-with-non-webdriver/preparing-web-browsers/preparing-internet-explorer-for-web-testing/advanced-settings/) to configure IE for automation tesing with TestArchitect
+- If you want to run on other browsers, read [here](https://docs.testarchitect.com/automation-guide/application-testing/testing-web-and-ria-applications/)
 
 ### 3. Import repository 
 - Follow the guide [here](https://docs.testarchitect.com/administration-guide/repository-server-management/exporting-importing-repositories/importing-repositories/) to import repository at `./repository/AI-Image-Compare.dat` 
@@ -38,9 +39,13 @@
 All steps are recorded in this following video:
 
 
-https://user-images.githubusercontent.com/25169430/132280113-590b4c48-e92a-405f-9d75-4d22743efd1a.mp4
+https://user-images.githubusercontent.com/25169430/132838483-5c5f3ed4-ed1e-4269-9e73-2e0b66106dc5.mp4
 
    
 # Advance
 - Please read [here](https://docs.testarchitect.com/user-guide/projects-and-project-items/project-items/picture-checks/key-points-modification-tool/) if you want to know how to create Keypoint for Image Comparison in this project
 - Video how to train keypoints for text and combo-box:
+
+https://user-images.githubusercontent.com/25169430/132837567-f4072802-8d96-4b9e-b35c-0a17df17ae66.mp4
+
+
