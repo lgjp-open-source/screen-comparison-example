@@ -3,7 +3,8 @@
 - Use [Google Cloud Vision API](https://cloud.google.com/vision) for paragraph recognization
 - Use [SIFT algorithm](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) for image's keypoint comparison as following
 
-![keypoint](https://user-images.githubusercontent.com/25169430/132656930-60ec2b5c-0720-4b16-a204-58310eb6aff3.png)
+![keypoint](https://user-images.githubusercontent.com/25169430/136770289-cbed4925-8c86-4e94-97bc-6f0037c5fb56.png)
+
 
 # Test Cases
 [testcases.md](./testcases.md)
@@ -34,6 +35,7 @@
 - Double click `AI-Image-Compare` repository to open it (empty passord)
 - Open `config` action in `Actions` and set `image_location` variabe to the downloaded images folder
 - Right click **AI Image Comparison** then **Execute Test...**
+- Clicl `Automation Tool...` buuton, choose `TestArchitect Python Harness` as `Playback Tool`. Then choose `Executable(s)` as `Python` and `Script(s)` as `ta_main.py` from downloaded folder at step 1 (Read [here](https://docs.testarchitect.com/testarchitect-tutorial/part-3-extending-testarchitect/lesson-8-using-an-automation-harness/working-with-the-python-harness/running-a-python-harness-test/) for more details)
 - Click **Execute** button to execute test 2 Testcases
 
 ### 6. View test results
