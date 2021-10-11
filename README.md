@@ -1,11 +1,20 @@
 # Description
 - [TestArchitect](https://www.testarchitect.com/)'s test cases scripts and videos demo for ["AI image comparison for automation"](https://www.logigear.jp/ai_compare/)
-- Use [SIFT algorithm](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) as following
+- Use [Google Cloud Vision API](https://cloud.google.com/vision) for paragraph recognization
+- Use [SIFT algorithm](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) for image's keypoint comparison as following
 
 ![keypoint](https://user-images.githubusercontent.com/25169430/132656930-60ec2b5c-0720-4b16-a204-58310eb6aff3.png)
 
 # Test Cases
 [testcases.md](./testcases.md)
+
+# Prerequisite
+1. Windows 64 bits
+2. [Testarchitect](https://www.testarchitect.com/) 64 bits installed
+3. [Python](https://www.python.org/downloads/) 3 64 bits installed
+4. [Opencv-python](https://pypi.org/project/opencv-python/) installed
+5. [Cloud Vision API](https://cloud.google.com/vision/docs/setup) installed
+6. [Cloud Vision Python client](https://cloud.google.com/vision/docs/quickstart-client-libraries) installed
 
 # Run
 ### 1. Checkout source 
@@ -14,11 +23,6 @@
    ```console
    $ git clone https://github.com/lgjp-open-source/screen-comparison-example.git
    ```
-
-### 2. Configure IE for automation testing
-- Follow the guide [here](https://docs.testarchitect.com/automation-guide/application-testing/testing-web-and-ria-applications/testing-web-applications/automated-web-testing-with-non-webdriver/preparing-web-browsers/preparing-internet-explorer-for-web-testing/advanced-settings/) to configure IE for automation tesing with TestArchitect
-- If you want to run on other browsers, read [here](https://docs.testarchitect.com/automation-guide/application-testing/testing-web-and-ria-applications/)
-
 ### 3. Import repository 
 - Follow the guide [here](https://docs.testarchitect.com/administration-guide/repository-server-management/exporting-importing-repositories/importing-repositories/) to import repository at `./repository/AI-Image-Compare.dat` 
 
@@ -28,8 +32,9 @@
 
 ### 5. Run test script
 - Double click `AI-Image-Compare` repository to open it (empty passord)
+- Open `config` action in `Actions` and set `image_location` variabe to the downloaded images folder
 - Right click **AI Image Comparison** then **Execute Test...**
-- Click **Execute** button to execute test
+- Click **Execute** button to execute test 2 Testcases
 
 ### 6. View test results
 - The results tab open automatically after script execution finished.
