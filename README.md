@@ -46,13 +46,8 @@
 All steps are recorded in this following video:
 
 
-https://user-images.githubusercontent.com/25169430/132838483-5c5f3ed4-ed1e-4269-9e73-2e0b66106dc5.mp4
+https://user-images.githubusercontent.com/25169430/136925313-be942108-a985-41b7-a15a-84bc784a7f3f.mp4
 
    
 # Advance
 - Please read [here](https://docs.testarchitect.com/user-guide/projects-and-project-items/project-items/picture-checks/key-points-modification-tool/) if you want to know how to create Keypoint for Image Comparison in this project
-- Video how to train keypoints for text and combo-box:
-
-https://user-images.githubusercontent.com/25169430/132837567-f4072802-8d96-4b9e-b35c-0a17df17ae66.mp4
-
-
