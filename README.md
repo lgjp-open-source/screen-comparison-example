@@ -9,7 +9,7 @@
 # Test Cases
 [testcases.md](./testcases.md)
 
-# Prerequisite
+# Prerequisites
 1. Windows 64 bits
 2. [Testarchitect](https://www.testarchitect.com/) 64 bits installed
 3. [Python](https://www.python.org/downloads/) 3 64 bits installed
@@ -35,7 +35,7 @@
 - Double click `AI-Image-Compare` repository to open it (empty passord)
 - Open `config` action in `Actions` and set `image_location` variabe to the downloaded images folder
 - Right click **AI Image Comparison** then **Execute Test...**
-- Clicl `Automation Tool...` buuton, choose `TestArchitect Python Harness` as `Playback Tool`. Then choose `Executable(s)` as `Python` and `Script(s)` as `ta_main.py` from downloaded folder at step 1 (Read [here](https://docs.testarchitect.com/testarchitect-tutorial/part-3-extending-testarchitect/lesson-8-using-an-automation-harness/working-with-the-python-harness/running-a-python-harness-test/) for more details)
+- Click `Automation Tool...` buuton, choose `TestArchitect Python Harness` as `Playback Tool`. Then choose `Executable(s)` as `Python` and `Script(s)` as `ta_main.py` from downloaded folder at step 1 (Read [here](https://docs.testarchitect.com/testarchitect-tutorial/part-3-extending-testarchitect/lesson-8-using-an-automation-harness/working-with-the-python-harness/running-a-python-harness-test/) for more details)
 - Click **Execute** button to execute test 2 Testcases
 
 ### 6. View test results
