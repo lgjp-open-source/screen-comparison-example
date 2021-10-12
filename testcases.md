@@ -18,4 +18,4 @@
 | 1              | Open target images by MSPaint | target image |
 | 2              | Compare baseline image with target images using keypoint | baseline image | Image's keypoints are similiar more than 90% |
 
-![combobox-keypoint](https://user-images.githubusercontent.com/25169430/132654691-0ad2e290-8cc7-4c36-9c9c-8aa166a8807d.png)
+![keypoint](https://user-images.githubusercontent.com/25169430/136770289-cbed4925-8c86-4e94-97bc-6f0037c5fb56.png)
